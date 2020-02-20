@@ -1,5 +1,5 @@
-
-Credits:
+# MyProfolio
+### Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
@@ -10,3 +10,4 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+<img src="fines.jpg">
